@@ -1,1 +1,4 @@
 Hello world
+
+This is an edit of the text file
+
